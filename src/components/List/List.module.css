@@ -1,0 +1,7 @@
+.menu-container {
+    max-width: 1200px;
+    padding: 0 1rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+  }
